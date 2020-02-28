@@ -24,9 +24,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/MDB-Free/css/mdb.css",
+              "src/assets/MDB-Free/css/mdb.min.css",
+              "src/assets/MDB-Free/css/mdb.lite.min.css",
+              "src/assets/MDB-Free/css/mdb.lite.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/MDB-Free/js/mdb.min.js",
+              "src/assets/MDB-Free/js/mdb.js",
+              "src/assets/MDB-Free/js/jquery.js"
+            ]
           },
           "configurations": {
             "production": {
